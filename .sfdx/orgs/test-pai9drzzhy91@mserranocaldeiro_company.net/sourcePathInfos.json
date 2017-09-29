@@ -2,14 +2,14 @@
     [
         "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1506674056000,
             "changeTime": 1506674056000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1506674056000,
             "changeTime": 1506674056000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,23 +36,23 @@
             "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 136,
-            "modifiedTime": 1506676373000,
-            "changeTime": 1506676373000,
-            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665"
+            "size": 442,
+            "modifiedTime": 1506682528000,
+            "changeTime": 1506682528000,
+            "contentHash": "5167654f329c97142ef0c4c5be650816940cb7ea"
         }
     ],
     [
         "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 68,
             "modifiedTime": 1506674056000,
             "changeTime": 1506674056000,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer",
         {
-            "state": "n",
             "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1506674092000,
             "changeTime": 1506674092000,
             "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,27 +75,66 @@
     [
         "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 348,
             "modifiedTime": 1506676373000,
             "changeTime": 1506676373000,
-            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80"
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1506676373000,
             "changeTime": 1506676373000,
-            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+            "contentHash": "60680eef6555307b3497314153664b6229838daf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/classes/FundController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/classes/FundController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1506683700000,
+            "changeTime": 1506683700000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/classes/FundController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/classes/FundController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3597,
+            "modifiedTime": 1506683700000,
+            "changeTime": 1506683700000,
+            "contentHash": "2ce2ce42f2091d1e26fea72ec68315e4a913c8c2"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/MutualFundExplorer/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1506683700000,
+            "changeTime": 1506683700000,
+            "contentHash": "b24f93feb3249b269aedab901f739b4736372993"
         }
     ]
 ]
