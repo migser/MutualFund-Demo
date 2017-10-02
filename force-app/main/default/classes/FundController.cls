@@ -48,7 +48,7 @@ global with sharing class FundController {
 
     @AuraEnabled
     public static PagedResult getFunds(String filters, Decimal pageSize, Decimal pageNumber) {
-        //Cambio
+        //Cambio 2
         Filter filter = (Filter) JSON.deserializeStrict(filters, FundController.Filter.class);
         Integer pSize = (Integer)pageSize;
         String key = '%' + filter.searchKey + '%';
